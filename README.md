@@ -6,10 +6,7 @@ Hello! I have created weather_app by using open weather api.Here is the link of 
 
 ## SCREENSHOT
 
-![App Screenshot]
-(
-    lib/d42d9334-5731-440b-817a-14a2e508d691.jpg
-    )
+![App Screenshot](https://github.com/MuhammadDanish111/weather_app_with_restApi/blob/master/lib/d42d9334-5731-440b-817a-14a2e508d691.jpg?raw=true)
 
 
 ## CONTACT ME
