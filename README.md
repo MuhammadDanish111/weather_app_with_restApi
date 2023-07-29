@@ -1,16 +1,13 @@
-# weatherapp
+# WEATHER_APP WITH OPEN WEATHER API
+Hello! I have created weather_app by using open weather api.Here is the link of website from where u  can get your Api key "https://openweathermap.org/"
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## SCREENSHOT
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](blob:https://web.whatsapp.com/d381ecfd-8491-4e35-bc71-97b439678b03)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## CONTACT ME
+gmail: danishriasat112004@gmail.com
+linkedin: https://www.linkedin.com/in/muhammad-danish-204619245/
