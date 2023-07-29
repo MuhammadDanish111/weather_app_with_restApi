@@ -7,7 +7,9 @@ Hello! I have created weather_app by using open weather api.Here is the link of 
 ## SCREENSHOT
 
 ![App Screenshot]
-(blob:https://web.whatsapp.com/d381ecfd-8491-4e35-bc71-97b439678b03)
+(
+    lib/d42d9334-5731-440b-817a-14a2e508d691.jpg
+    )
 
 
 ## CONTACT ME
